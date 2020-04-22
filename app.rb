@@ -3,6 +3,7 @@ AVERAGE_HEIGHT_IN_INCHES = 67
 name="Taylor Triplett"
 age="19"
 age_in_30_years="age+30"
+favorite_food="falafel"
 
 # Your Code Here!
 
