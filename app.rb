@@ -2,7 +2,7 @@ require_relative './test'
 AVERAGE_HEIGHT_IN_INCHES = 67
 name="Taylor Triplett"
 age="19
-age_in"
+age_in_30_years="
 # Your Code Here!
 
 ## Do not modify below this line!
