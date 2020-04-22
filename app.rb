@@ -8,6 +8,7 @@ height_message= "height_in_inches" >= "67" ? "You are taller than average" : "Yo
 message = "Hello, #{name}! You are #{age} years old. In 30 years you will be #{age_in_30_years} years old. Your favorite food is #{favorite_food}. That sounds tasty, but don't take my word for it - I'm just a computer! #{height_message}"
   puts message
 end
+learn test
 ## Do not modify below this line!
 
 output(name, age, favorite_food, height_message)
